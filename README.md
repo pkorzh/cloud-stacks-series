@@ -2,4 +2,4 @@
 
 Cloud Stack is a complete guide for building and deploying cloud-navite apps using AWS and JavaScript.
 
-The content is available on medium -- https://read.korzh.cloud/tagged/cloud-stack
+The content is available on medium -- https://read.korzh.cloud/tagged/cloud-stack-series
